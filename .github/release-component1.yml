@@ -1,0 +1,5 @@
+changelog:
+  exclude:
+    labels:
+      - component2
+      - component3
